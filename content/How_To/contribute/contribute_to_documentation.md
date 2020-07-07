@@ -14,7 +14,7 @@ Then pick a page you want to update and select the edit button:
 
 You can now [use markdown](https://guides.github.com/features/mastering-markdown/) to edit the documentation page.
 
-Once done, try to quickly explain what your modification is for, and click on the _Propose file change_ button:
+Once done, try to briefly explain what your modification is for, and click on the _Propose file change_ button:
 
 ![propose file change](/img/contribute/documentation/easy-submit.png)
 
